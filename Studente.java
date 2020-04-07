@@ -28,6 +28,13 @@ public class Studente {
 	}
 
 
+
+
+	public String toString() {
+		return "Studente " + Nome + ", " + Cognome + "";
+	}
+
+
 }
 
 
