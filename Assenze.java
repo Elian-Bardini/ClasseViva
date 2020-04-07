@@ -30,8 +30,8 @@ public class Assenze {
 	}
 	
 	public String toString() {
-		return "Assenze [numero_assenze=" + numero_assenze + ", giorno="
-				+ giorno + ", mese=" + mese + "]";
+		return "Assenze " + numero_assenze + ", giorno="
+				+ giorno + ", mese=" + mese + "";
 	}
 	
 }
