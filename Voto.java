@@ -37,7 +37,7 @@ public class Voto {
 
 
 	public String toString() {
-		return "Voto [n_voto=" + n_voto + ", materia=" + materia + "]";
+		return "Voto " + n_voto + ", materia=" + materia + "";
 	}
 	
 
